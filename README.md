@@ -3,7 +3,7 @@ Windows Server 2019 Github พร้อมการเข้าถึง RDP (ng
 
 ต้นฉบับ : https://github.com/docefio/Windows2019RDP-Github/ 
 
-สร้าง VPS ฟรีพร้อม 2cpu-7gb Ram ฟรีด้วย Github:
+สร้าง RDP ฟรีพร้อม 2cpu-7gb Ram ฟรีด้วย Github:
 
 + clone ไฟล์ไป
 + สร้าง repository ขึ้นมาเปิดเป็น public
