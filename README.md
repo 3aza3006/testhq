@@ -1,4 +1,9 @@
+<p align="center"><a href="#"><img src="https://img.shields.io/github/languages/code-size/watchakorn-18k/Windows2019RDP-US-WK"/></a>
+<a href="#"><img src="https://img.shields.io/github/stars/watchakorn-18k/Windows2019RDP-US-WK?style=social"/></a><a href="#"><img src="https://img.shields.io/github/languages/count/watchakorn-18k/Windows2019RDP-US-WK?style=social"/></a><a href="#"><img src="https://img.shields.io/github/forks/watchakorn-18k/Windows2019RDP-US-WK?style=social"/></a>
+</p>
+
 # Windows2019RDP-US
+
 Windows Server 2019 Github พร้อมการเข้าถึง RDP (ngrok US) 
 
 ต้นฉบับ : https://github.com/docefio/Windows2019RDP-Github/ 
@@ -39,3 +44,6 @@ Windows Server 2019 Github พร้อมการเข้าถึง RDP (ng
 + จากคัดลอกโค้ดในไฟล์ main.txt ใน Directory ไฟล์เดียว ไปใส่
 + จากนั้นไปใส่ TOKEN
 + แล้วก็ลอง Run ใน action
+
+[forks-url]: https://github.com/watchakorn-18k/Windows2019RDP-US-WK/network/members
+[forks-shield]: https://img.shields.io/github/forks/watchakorn-18k/Windows2019RDP-US-WK.svg?style=for-the-badge
